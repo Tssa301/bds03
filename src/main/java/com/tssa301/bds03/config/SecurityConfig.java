@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.config;
+package com.tssa301.bds03.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.security.config.annotation.web.builders.WebSecurity;

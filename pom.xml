@@ -9,7 +9,7 @@
 		<version>2.4.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.devsuperior</groupId>
+	<groupId>com.tssa301</groupId>
 	<artifactId>bds03</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>bds03</name>

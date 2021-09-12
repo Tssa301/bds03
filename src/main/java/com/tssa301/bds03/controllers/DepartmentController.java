@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.controllers;
+package com.tssa301.bds03.controllers;
 
 import java.util.List;
 
@@ -8,8 +8,8 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.devsuperior.bds03.dto.DepartmentDTO;
-import com.devsuperior.bds03.services.DepartmentService;
+import com.tssa301.bds03.services.DepartmentService;
+import com.tssa301.bds03.bds03.dto.DepartmentDTO;
 
 @RestController
 @RequestMapping(value = "/departments")

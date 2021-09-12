@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.controllers;
+package com.tssa301.bds03.controllers;
 
 import java.net.URI;
 
@@ -17,8 +17,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import com.devsuperior.bds03.dto.EmployeeDTO;
-import com.devsuperior.bds03.services.EmployeeService;
+import com.tssa301.bds03.bds03.dto.EmployeeDTO;
+import com.tssa301.bds03.services.EmployeeService;
 
 @RestController
 @RequestMapping(value = "/employees")

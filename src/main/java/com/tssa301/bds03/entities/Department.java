@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.entities;
+package com.tssa301.bds03.entities;
 
 import java.util.ArrayList;
 import java.util.List;

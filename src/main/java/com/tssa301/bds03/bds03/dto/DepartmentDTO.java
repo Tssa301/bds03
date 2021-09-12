@@ -1,8 +1,8 @@
-package com.devsuperior.bds03.dto;
+package com.tssa301.bds03.bds03.dto;
 
 import java.io.Serializable;
 
-import com.devsuperior.bds03.entities.Department;
+import com.tssa301.bds03.entities.Department;
 
 public class DepartmentDTO implements Serializable {
 	private static final long serialVersionUID = 1L;

@@ -1,4 +1,4 @@
-package com.devsuperior.bds03.controllers;
+package com.tssa301.bds03.controllers;
 
 import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.jsonPath;
@@ -14,9 +14,9 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.ResultActions;
 import org.springframework.transaction.annotation.Transactional;
 
-import com.devsuperior.bds03.dto.EmployeeDTO;
-import com.devsuperior.bds03.tests.TokenUtil;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import com.tssa301.bds03.bds03.dto.EmployeeDTO;
+import com.tssa301.bds03.tests.TokenUtil;
 
 @SpringBootTest
 @AutoConfigureMockMvc
